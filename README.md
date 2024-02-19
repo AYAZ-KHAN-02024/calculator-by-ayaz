@@ -1,5 +1,5 @@
-# Calculator Readme
-
+# Calculator 
+-site-link - https://ayaz-khan-02024.github.io/calculator-by-ayaz/
 This calculator is a simple responsive web-based calculator that allows basic arithmetic operations such as addition, subtraction, multiplication, and division. It also supports decimal points for floating-point numbers. Here's a quick overview of its functionalities and usage instructions:
 
 ### Functionalities:
